@@ -1,8 +1,7 @@
 // This is an ESLint config file for Ember projects. To use it:
-//   1. Put it in the root directory of any Ember project.
-//   2. Remember to delete the .ember suffix from the file's name.
-//   3. npm i -g eslint babel-eslint eslint-plugin-sort-imports-es6
-//   4. npm i --save-dev eslint babel-eslint eslint-plugin-sort-imports-es6 ember-cli-eslint
+//   1. npm i -g eslint babel-eslint eslint-plugin-sort-imports-es6
+//   2. npm i --save-dev eslint babel-eslint eslint-plugin-sort-imports-es6 ember-cli-eslint
+//   3. Remove the ".ember" suffix and put file in root of Ember project.
 module.exports = {
   'env': {
     browser: true,
